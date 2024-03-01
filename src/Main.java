@@ -24,12 +24,12 @@ public class Main {
         numVisit = scanner.nextInt();
 
         System.out.println("\n\n\t\t\t\t\tBienvenido al Edificio 28");
-        System.out.println("\n\n\t\t\t\tNombre del visitante: " + nom + ape);
-        System.out.println("\n\t\t\tSu edad es: " + edad);
-        System.out.println("\n\t\t\tSu numero de telefono es: " + tel);
-        System.out.println("\n\t\t\tNumero de piso al que se dirige: " + piso);
-        System.out.println("\n\t\t\tNumero de habitación: " + numApart);
-        System.out.println("\n\t\t\tCantidad de visitantes ingresados: " + numVisit);
+        System.out.println("\n\n\t\t\tNombre del visitante: " + nom + ape);
+        System.out.println("\t\t\tSu edad es: " + edad);
+        System.out.println("\t\t\tSu numero de telefono es: " + tel);
+        System.out.println("\t\t\tNumero de piso al que se dirige: " + piso);
+        System.out.println("\t\t\tNumero de habitación: " + numApart);
+        System.out.println("\t\t\tCantidad de visitantes ingresados: " + numVisit);
 
 
     }
