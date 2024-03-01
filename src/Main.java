@@ -31,6 +31,7 @@ public class Main {
         System.out.println("\n\t\t\tNumero de habitación: " + numApart);
         System.out.println("\n\t\t\tCantidad de visitantes ingresados: " + numVisit);
 
+
     }
 
 }
